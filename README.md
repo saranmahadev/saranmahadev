@@ -23,11 +23,11 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 [![hashnode](https://img.shields.io/badge/Hashnode-323330?style=for-the-badge&logo=hashnode&logoColor=fd9000)](https://blog.saranmahadev.tech)
 
 <!-- BLOG-POST:START -->
-- [DevOps Digest - An Open Source Contribution](https://blog.saranmahadev.tech/devops-digest)
-- [How I started a club in my college?](https://blog.saranmahadev.tech/how-i-started-a-club-in-my-college)
-- [Automated Deployment | Task - 6](https://blog.saranmahadev.tech/automated-deployment-or-task-6)
-- [Changing GitHub Profile | Task - 5](https://blog.saranmahadev.tech/changing-github-profile)
-- [CM Inventory | Task - 4](https://blog.saranmahadev.tech/cm-inventory)
+- [Claude Sonnet 4 Just Dropped a 1M Token Bombshell!](https://medium.com/@devdrafted/claude-sonnet-4-just-dropped-a-1m-token-bombshell-3c5a0699a051?source=rss-e761b1eb17a7------2)
+- [The Slip-Box Secret: How a German Bureaucrat Hacked Productivity &amp; Built a Thinking Machine](https://medium.com/@devdrafted/the-slip-box-secret-how-a-german-bureaucrat-hacked-productivity-built-a-thinking-machine-79e64ab03f5e?source=rss-e761b1eb17a7------2)
+- [The Ultimate Guide to iOS 26: Apple’s Shiny, Glitchy Revolution](https://medium.com/@devdrafted/the-ultimate-guide-to-ios-26-apples-shiny-glitchy-revolution-8a39de08fc0a?source=rss-e761b1eb17a7------2)
+- [The Union Budget 2025: A Complete Breakdown](https://medium.com/@devdrafted/the-union-budget-2025-a-complete-breakdown-73130f89a49d?source=rss-e761b1eb17a7------2)
+- [DeepSeek: The  Bubble-Bursting Innovation That’s Shaking Up AI Like Never Before](https://medium.com/@devdrafted/deepseek-the-bubble-bursting-innovation-thats-shaking-up-ai-like-never-before-7334dfef1983?source=rss-e761b1eb17a7------2)
 <!-- BLOG-POST:END -->
 
 ---
