@@ -13,7 +13,7 @@ jobs:
         with:
           comment_tag_name: "BLOG-POST"
           max_post_count: "5"
-          feed_list: "https://blog.saranmahadev.tech/rss.xml"
+          feed_list: "https://medium.com/feed/@devdrafted"
   update-readme-with-podcast:
     name: Update this repo's README with latest podcasts
     runs-on: ubuntu-latest
@@ -33,7 +33,7 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           max_post_count: "3"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCsuU50gRmzLPMBlP1vJhJbg"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCY3x0hrhHtV0P3aIjKxdhng"
   update-readme-with-recent-activity:
     name: Update this repo's README with latest recent activity
     runs-on: ubuntu-latest
