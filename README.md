@@ -2,9 +2,14 @@
 
 
 ### Hey There 👋,
-I am Saran Mahadev, a penultimate year student who has a beginner's mindset - the one who always loves to learn new things. I am passionate in architecting solutions for complex applications and problems. I work on a highly productive environment and out grown the messy environment(Trying my best!). I love to share my knowledge in my own way and I create content on YouTube, Blog ,Instagram and on Discord(Pro Community)
+I engineer complex systems with surgical precision, twist algorithms until they behave, and command the crossroads of DevOps, Cloud, and Generative AI like it’s home turf. I don’t chase the tech curve - I hunt it down, corner it, and make it produce results.
 
-Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
+Always building. Always Refining. Always Pushing past the limits of what should scale and turning it into what will scale.
+
+If it automates, orchestrates, learns, adapts, or even thinks it can outsmart me…
+I make it sharper, faster, and unapologetically more powerful.
+
+[Peope call me Dev, Really!](https://www.saranmahadev.in)
 
 ---
 ### Lets Connect 🤝
