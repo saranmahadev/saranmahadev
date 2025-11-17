@@ -47,8 +47,8 @@ Wanna Know Checkout My Portfolio -> [Here!](https://www.saranmahadev.tech)
 [![spotify](https://img.shields.io/badge/Spotify-323330?&style=for-the-badge&logo=spotify&logoColor=fd9000)](https://open.spotify.com/show/1UUuod74srYAxqrbcXqQCK?si=6UB_2ZOpSzWNRhRUSbPLdg&dl_branch=1)
 
 <!-- PODCAST:START -->
-- [Financial Awareness!](https://anchor.fm/saranmahadev/episodes/Financial-Awareness-e1eooor)
-- [Persistence is the key](https://anchor.fm/saranmahadev/episodes/Persistence-is-the-key-e1ej3mg)
+- [The Ups and Downs of Entrepreneurship](https://podcasters.spotify.com/pod/show/saranmahadev/episodes/The-Ups-and-Downs-of-Entrepreneurship-e1s2up5)
+- [Financial Awareness!](https://podcasters.spotify.com/pod/show/saranmahadev/episodes/Financial-Awareness-e1eooor)
 <!-- PODCAST:END -->
 
 ---
