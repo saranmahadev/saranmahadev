@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
-  schedule:
-    - cron: '0 * 15 * *'
+  push:
+    branches: [ main ]
   workflow_dispatch:
 jobs:
   update-readme-with-blog:
@@ -34,12 +34,3 @@ jobs:
           comment_tag_name: "YOUTUBE"
           max_post_count: "3"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCY3x0hrhHtV0P3aIjKxdhng"
-  update-readme-with-recent-activity:
-    name: Update this repo's README with latest recent activity
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: "${{ secrets.GH_TOKEN }}"
-  
