@@ -22,8 +22,7 @@ I make it sharper, faster, and unapologetically more powerful.
 
 🔭 Building scalable AI-powered microservices with LangChain & FastAPI  
 🌱 Deep diving into LLM fine-tuning and RAG architectures  
-⚡ Optimizing Kubernetes clusters for production ML workloads  
-🤝 Open to collaborating on DevOps automation and Generative AI projects  
+🤝 Open to collaborating on MLOps automation and Generative AI projects  
 💡 Exploring multi-agent AI systems and autonomous workflows
 
 ---
